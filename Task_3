@@ -1,0 +1,79 @@
+# 📊 Olist Closed Deals Data Analysis
+
+## 📌 Project Overview
+
+This project focuses on cleaning, analyzing, and extracting insights from the Olist closed deals dataset using Python and SQL-ready workflows.
+
+## 🎯 Objectives
+
+* Clean messy real-world data
+* Handle missing values & duplicates
+* Perform Exploratory Data Analysis (EDA)
+* Generate business insights
+* Prepare data for SQL & dashboards
+
+## 🛠 Tools & Technologies
+
+* Python (Pandas, NumPy, Matplotlib)
+* Jupyter Notebook
+* SQLite (optional)
+* Git & GitHub
+
+## 🧹 Data Cleaning Steps
+
+* Removed duplicate records
+* Handled missing values
+* Converted date formats
+* Fixed data types
+* Created new time-based features
+
+## 📊 Exploratory Data Analysis
+
+Key analysis performed:
+
+* Business segment distribution
+* Lead type analysis
+* Monthly deal trends
+* Revenue distribution
+
+## 📈 Key Insights
+
+* Certain business segments dominate closed deals.
+* Seasonal patterns affect deal closures.
+* Revenue distribution shows strong variation across clients.
+
+## 📂 Project Structure
+
+```
+Deals-Data-Analysis/
+│
+├── data/
+├── notebooks/
+├── scripts/
+├── visuals/
+└── README.md
+```
+
+## 🚀 How to Run
+
+### Install dependencies
+
+```
+pip install -r requirements.txt
+```
+
+### Run script
+
+```
+python scripts/cleaning_eda.py
+```
+
+## 📌 Future Improvements
+
+* Build Power BI dashboard
+* Create predictive model
+* Automate pipeline
+
+## 👩‍💻 Author
+
+Sindhu Sree
