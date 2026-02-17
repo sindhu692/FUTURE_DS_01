@@ -4,7 +4,7 @@ This repository contains all projects completed as part of the Data Science & An
 
 The work focuses on solving real-world business problems through:
 
-📊 Data Analysis
+## 📊 Data Analysis
 
 📈 Visualization & Dashboarding
 
@@ -14,17 +14,17 @@ The work focuses on solving real-world business problems through:
 
 📌 Internship Overview
 
-Domain: Data Science & Analytics
+## Domain: Data Science & Analytics
 
-Track Code: DS
+- Track Code: DS
 
-Organization: Future Interns
+- Organization: Future Interns
 
-Mode: Self-paced, Project-Based Internship
+- Mode: Self-paced, Project-Based Internship
 
 All tasks are documented and structured according to official GitHub submission standards.
 
-📂 Repository Structure
+# 📂 Repository Structure
 FUTURE_DS_01/
 │
 ├── TASK_01_Business_Sales_Performance/
@@ -35,7 +35,7 @@ FUTURE_DS_01/
 
 Each task folder contains:
 
-📁 Dataset files
+## 📁 Dataset files
 
 🧹 Data cleaning notebooks
 
@@ -43,208 +43,198 @@ Each task folder contains:
 
 📑 Business insights & findings
 
-👩‍💻 About Me
-
-Aspiring Data Analyst with hands-on experience in:
-
-Data Cleaning & Preprocessing
-
-Exploratory Data Analysis
-
-KPI Development
-
-SQL Analytics
-
-Business Intelligence Dashboard Design
-
-This portfolio showcases three complete end-to-end analytics projects executed during my internship.
-
-📊 TASK 01 – Business Sales Performance Analysis
-🛒 Superstore Sales Data Cleaning & BI Dashboard
-🎯 Objective
+# 📊 TASK 01 – Business Sales Performance Analysis
+# 🛒 Superstore Sales Data Cleaning & BI Dashboard
+## 🎯 Objective
 
 Perform end-to-end data cleaning and develop an interactive Power BI dashboard to analyze sales and profitability metrics.
 
-🛠 Tools Used
+## 🛠 Tools Used
 
-Python (Pandas, NumPy)
+- Python (Pandas, NumPy)
 
-Jupyter Notebook
+- Jupyter Notebook
 
-Power BI
+- Power BI
 
-🔍 Key Work Performed
+## 🔍 Key Work Performed
 
-Cleaned raw retail dataset
+- Cleaned raw retail dataset
 
-Handled missing values & duplicates
+- Handled missing values & duplicates
 
-Standardized formats and validated metrics
+- Standardized formats and validated metrics
 
-Built KPI-driven Power BI dashboard
+- Built KPI-driven Power BI dashboard
 
-📊 KPIs Developed
+## 📊 KPIs Developed
 
-Total Sales
+- Total Sales
 
-Total Profit
+- Total Profit
 
-Total Orders
+- Total Orders
 
-Total Quantity
+- Total Quantity
 
-Profit Margin %
+- Profit Margin %
 
-📈 Business Insights
+## 📈 Business Insights
 
-Identified top-performing product categories
+- Identified top-performing product categories
 
-Analyzed regional revenue distribution
+- Analyzed regional revenue distribution
 
-Evaluated profitability trends
+- Evaluated profitability trends
 
-Tracked monthly growth patterns
+- Tracked monthly growth patterns
 
-💼 Business Value
+## 💼 Business Value
 
-Demonstrates strong data preparation, KPI design, and BI reporting capabilities.
+- Demonstrates strong data preparation, KPI design, and BI reporting capabilities.
 
-📉 TASK 02 – Telecom Customer Churn Analysis
-🎯 Objective
+# 📉 TASK 02 – Telecom Customer Churn Analysis
+## 🎯 Objective
 
 Analyze telecom customer churn patterns and provide retention strategies to reduce revenue loss.
 
-🛠 Tools Used
+## 🛠 Tools Used
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-SQL (MySQL)
+- SQL (MySQL)
 
-Tableau
+- Tableau
 
-📊 Dataset
+##📊 Dataset
 
-IBM Telco Customer Churn Dataset
-7,043 customers | Customer-level granularity
+- IBM Telco Customer Churn Dataset 7,043 customers | Customer-level granularity
 
-📊 Key KPIs
+## 📊 Key KPIs
 
-Overall Churn Rate: 26.54%
+- Overall Churn Rate: 26.54%
 
-Revenue Lost Due to Churn: ₹2.86M
+- Revenue Lost Due to Churn: ₹2.86M
 
-Month-to-month churn: 42.71%
+- Month-to-month churn: 42.71%
 
-Electronic check churn: 45.29%
+- Electronic check churn: 45.29%
 
-🔍 Analysis Highlights
+## 🔍 Analysis Highlights
 
-Revenue impact estimation
+- Revenue impact estimation
 
-Contract-type churn comparison
+- Contract-type churn comparison
 
-Payment method segmentation
+- Payment method segmentation
 
-Tenure-based churn patterns
+- Tenure-based churn patterns
 
-📈 Key Insights
+## 📈 Key Insights
 
-Early-tenure customers are high-risk
+- Early-tenure customers are high-risk
 
-Month-to-month contracts drive churn
+- Month-to-month contracts drive churn
 
-Automatic payments improve retention
+- Automatic payments improve retention
 
-Technical support reduces churn probability
+- Technical support reduces churn probability
 
-📌 Recommendations
+## 📌 Recommendations
 
-Promote long-term contracts
+- Promote long-term contracts
 
-Improve onboarding process
+- Improve onboarding process
 
-Target high-value customers
+- Target high-value customers
 
-Encourage automatic payment methods
+- Encourage automatic payment methods
 
-💼 Business Value
+## 💼 Business Value
 
 Showcases SQL analytics, churn modeling logic, and revenue-focused decision support.
 
-📈 TASK 03 – Marketing Funnel Performance & Growth Insights
-🎯 Objective
+# 📈 TASK 03 – Marketing Funnel Performance & Growth Insights
+## 🎯 Objective
 
 Evaluate CRM lead conversion performance and revenue growth trends using Power BI.
 
-🛠 Tools Used
+## 🛠 Tools Used
 
-Python (Data Cleaning)
+- Python (Data Cleaning)
 
-Power BI (DAX & Data Modeling)
+- Power BI (DAX & Data Modeling)
 
-📊 KPIs Designed
+## 📊 KPIs Designed
 
-Total Leads
+- Total Leads
 
-Customers (Converted Leads)
+- Customers (Converted Leads)
 
-Conversion Rate
+- Conversion Rate
 
-Average Customer Value
+- Average Customer Value
 
-Total Revenue
+- Total Revenue
 
-🔍 Work Performed
+## 🔍 Work Performed
 
-Cleaned CRM deal data
+- Cleaned CRM deal data
 
-Built funnel stage logic
+- Built funnel stage logic
 
-Created DAX measures
+- Created DAX measures
 
-Designed executive-level dashboard
+- Designed executive-level dashboard
 
-📈 Key Insights
+## 📈 Key Insights
 
-Online channels generate most leads
+- Online channels generate most leads
 
-Industry leads produce higher-value customers
+- Industry leads produce higher-value customers
 
-Mid-year months show peak conversion
+- Mid-year months show peak conversion
 
-Behavior-based leads convert more effectively
+- Behavior-based leads convert more effectively
 
-💼 Business Value
+## 💼 Business Value
 
-Demonstrates expertise in conversion analytics, DAX measures, and performance tracking dashboards.
+- Demonstrates expertise in conversion analytics, DAX measures, and performance tracking dashboards.
 
-🛠 Technical Skills Demonstrated
-📌 Programming & Analytics
+## 🛠 Technical Skills Demonstrated
+## 📌 Programming & Analytics
 
-Python (Pandas, NumPy)
+- Python (Pandas, NumPy)
 
-SQL (MySQL)
+- SQL (MySQL)
 
-Data Cleaning & Feature Engineering
+- Data Cleaning & Feature Engineering
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-📌 Business Intelligence
+## 📌 Business Intelligence
 
-Power BI (DAX, Data Modeling)
+- Power BI (DAX, Data Modeling)
 
-Tableau Dashboarding
+- Tableau Dashboarding
 
-KPI Development
+- KPI Development
 
-Funnel & Retention Analytics
+- Funnel & Retention Analytics
 
-📌 Business Problem Solving
+## 📌 Business Problem Solving
 
-Revenue Impact Analysis
+- Revenue Impact Analysis
 
-Customer Churn Identification
+- Customer Churn Identification
 
-Conversion Funnel Optimization
+- Conversion Funnel Optimization
 
-Executive-Level Reporting
+- Executive-Level Reporting
+
+👩‍💻 Author
+
+K. Sindhu Sree
+Data Analyst | SQL | Python | Power BI | Tableau
+
+Completed as part of the Data Science & Analytics Internship at Future Interns
