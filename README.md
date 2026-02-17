@@ -43,8 +43,7 @@ Each task folder contains:
 
 📑 Business insights & findings
 
-# 📊 TASK 01 – Business Sales Performance Analysis
-# 🛒 Superstore Sales Data Cleaning & BI Dashboard
+# 📊 TASK 01 – Superstore Sales Data Cleaning & BI Dashboard
 ## 🎯 Objective
 
 Perform end-to-end data cleaning and develop an interactive Power BI dashboard to analyze sales and profitability metrics.
