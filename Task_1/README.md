@@ -1,28 +1,31 @@
-Superstore Sales Data Cleaning & Dashboard Project
+🛒 Superstore Sales Data Cleaning & Business Intelligence Dashboard
 📌 Project Overview
 
-This project focuses on data cleaning, preprocessing, and visualization of the Superstore sales dataset using Python (Pandas) and Power BI.
+This project demonstrates an end-to-end data analysis workflow using the Superstore Sales dataset — starting from raw data cleaning in Python to building an interactive Business Intelligence dashboard in Power BI.
 
-The workflow includes:
+The project covers:
 
-Raw data cleaning using Python
+✅ Data Cleaning & Preprocessing (Python)
 
-Data transformation & preprocessing
+✅ Data Transformation & Validation
 
-Exporting cleaned dataset
+✅ Exporting Cleaned Dataset
 
-Building interactive dashboard in Power BI
+✅ Interactive Dashboard Development in Power BI
+
+✅ Business Insights Generation
 
 📂 Project Structure
-├── Data_Cleaning_Python.ipynb     # Data cleaning notebook
+
+├── Data_Cleaning_Python.ipynb     # Data cleaning & preprocessing notebook
 ├── Sample - Superstore.csv        # Raw dataset
-├── superstore_cleaned.csv         # Cleaned dataset
+├── superstore_cleaned.csv         # Cleaned dataset (final output)
 ├── Superstore.pbix                # Power BI dashboard file
 └── README.md
 
-🧹 Data Cleaning (Python)
+🧹 Data Cleaning & Preprocessing (Python)
 
-The data cleaning process was performed using:
+Data cleaning was performed using:
 
 Python
 
@@ -30,61 +33,73 @@ Pandas
 
 NumPy
 
+Jupyter Notebook
+
 ✔ Cleaning Steps Performed
 
-Checked for missing values
+Checked and handled missing values
 
 Removed duplicate records
 
-Handled incorrect data types
+Corrected inconsistent data types
 
-Formatted date columns
+Standardized column naming conventions
 
-Standardized column names
+Formatted date columns properly
 
-Verified numerical columns
+Verified numerical columns (Sales, Profit, Quantity)
 
-Exported cleaned dataset
+Ensured data integrity and consistency
+
+Exported cleaned dataset for reporting
 
 📁 Output File:
-
 superstore_cleaned.csv
 
 📊 Power BI Dashboard
 
-Using the cleaned dataset, an interactive dashboard was created in Power BI.
+Using the cleaned dataset, a fully interactive dashboard was developed in Power BI.
 
-Dashboard Highlights
+📌 Key Dashboard KPIs
 
-Total Sales
+💰 Total Sales
 
-Total Profit
+📈 Total Profit
 
-Total Orders
+🛒 Total Orders
+
+📦 Total Quantity
+
+📊 Profit Margin %
+
+📌 Visual Analysis Included
 
 Sales by Category
 
 Sales by Region
 
-Profit Analysis
+Segment-wise Performance
 
 Monthly Sales Trend
 
-Segment Analysis
+Profit Analysis
+
+Order Distribution Insights
 
 📁 Dashboard File:
-
 Superstore.pbix
 
-📈 Key Insights
+📈 Key Business Insights
 
 Identified high-performing product categories
 
-Analyzed region-wise sales distribution
-
-Observed monthly sales trends
+Analyzed region-wise revenue contribution
 
 Evaluated profit margins across segments
+
+Observed monthly sales growth trends
+
+Detected areas with low profitability
 
 🛠 Tools & Technologies Used
 
@@ -107,49 +122,53 @@ Open Data_Cleaning_Python.ipynb
 
 Run all cells
 
-Generate cleaned dataset
+Generate superstore_cleaned.csv
 
 2️⃣ Power BI Dashboard
 
 Open Superstore.pbix
 
-Refresh data if required
+Refresh dataset (if required)
 
-Explore interactive visuals
+Explore interactive dashboard visuals
 
 📌 Dataset Information
 
 Dataset: Superstore Sales Dataset
 
-Contains order details including:
+Includes:
 
 Customer Information
 
-Sales
+Order Details
 
-Profit
+Sales & Profit
 
-Category
+Category & Sub-Category
 
 Region
 
 Order Date
 
-Shipping Details
+Shipping Information
 
-🎯 Project Purpose
+🎯 Project Objective
 
 This project demonstrates:
 
 Real-world data cleaning skills
 
-Data preprocessing workflow
+Data preprocessing best practices
 
 Business intelligence reporting
 
-Dashboard development
+KPI design & development
 
-End-to-end data analysis pipeline
+Dashboard storytelling
 
-👤 Author
-K.SIndhu Sree
+End-to-end data analytics workflow
+
+👩‍💻 Author
+
+K. Sindhu Sree
+Aspiring Data Analyst | SQL | Python | Power BI
